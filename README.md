@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! My name is Amira</h2>
+<h1 align="left">Hi 👋! My name is Amira</h1>
 
 ###
 
-<h3 align="left">Software Developer | Data Scientist | Machine Learning Engineer Engineer</h3>
+<h2 align="left">Software Developer | Data Scientist | Machine Learning Engineer Engineer</h2>
 
 ###
 
-<h5 align="left">Welcome to my GitHub profile! I'm passionate about solving problems with technology, whether it's building machine learning models, designing embedded systems, or developing full-stack web applications. With diverse experiences ranging from Data Science to IoT, I enjoy collaborating on innovative projects and continually learning new technologies.</h5>
+<h4 align="left">Welcome to my GitHub profile! I'm passionate about solving problems with technology, whether it's building machine learning models, designing embedded systems, or developing full-stack web applications. With diverse experiences ranging from Data Science to IoT, I enjoy collaborating on innovative projects and continually learning new technologies.</h4>
 
 ###
 
