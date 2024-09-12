@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi 👋! My name is Amira Sayed and I'm  Software Developer | Data Scientist | Machine Learning Engineer
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Welcome to my GitHub profile! I'm passionate about solving problems with technology, whether it's building machine learning models, designing embedded systems, or developing full-stack web applications. With diverse experiences ranging from Data Science to IoT, I enjoy collaborating on innovative projects and continually learning new technologies.</h2>
 
 ###
 
